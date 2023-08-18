@@ -1,5 +1,5 @@
 "# folusosamuel"
-Github Profile Readme Format For Dev Folusho Makinde(Prof skills cumm react#108956\*\*\*#$@348)
+Github Profile Readme Format For Dev Folusho Makinde
 
 ### Hi there it's Foluso Samuel Makinde 👋
 
