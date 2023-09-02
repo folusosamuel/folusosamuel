@@ -52,9 +52,13 @@ Github Profile Readme Format For Dev Folusho Makinde
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvk27FJ7keQnZLcglO7LP8Bo8HdNikQMeSNQ&usqp=CAU">
       </td>
-            <td width="25%" align="center">
+        <td width="25%" align="center">
         <span><strong>Postgres</strong></span><br><br><br>
         <img height="64px" src="https://blog.xojo.com/wp-content/uploads/2017/06/postgresql-card.png">
+      </td>
+        <td width="25%" align="center">
+        <span><strong>Articulate Storyline</strong></span><br><br><br>
+        <img height="64px" src="./articulate.jpeg">
       </td>
     </tr>
   </tbody>
