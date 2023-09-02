@@ -58,7 +58,7 @@ Github Profile Readme Format For Dev Folusho Makinde
       </td>
         <td width="25%" align="center">
         <span><strong>Articulate Storyline</strong></span><br><br><br>
-        <img height="64px" src="./articulate.jpeg">
+        <img height="64px" src="https://www.clipartmax.com/middle/m2H7d3d3K9G6d3b1_articulate-make-it-easy-to-create-compelling-%E2%93%92-articulate-360-logo-png/" target="_blank">">
       </td>
     </tr>
   </tbody>
